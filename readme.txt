@@ -1,1 +1,1 @@
-Para hacer: Agregar el idioma inglés en el archivo english.json siguiendo las instrucciones en el mismo
+To do: Add english language inside languages/english.json
