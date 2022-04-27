@@ -1,6 +1,6 @@
 {
     "_comment": "reemplaze las frases en español al inglés",
-    "menu": "Select an option\n",
-    "fibonacci": "Fibonacci succession",
-    "pi": "pi number"
+    "menu": "Seleccione una función\n",
+    "fibonacci": "Sucesión de fibonacci",
+    "pi": "Número pi"
 }
